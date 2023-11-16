@@ -2,7 +2,8 @@
 #include <cstdlib>
 #include <ctime>
 #include <Windows.h>
-
+/*Functions related to the modules posted within this Repository as modular
+ Linked on resource files folder*/
 using namespace std;
 void HotelPrice();
 void StarFunctions();
